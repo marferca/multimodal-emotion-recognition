@@ -1,0 +1,10 @@
+Actor_1: blue
+Actor_2: red
+Actor_3: pink
+Actor_4: turquoise
+Actor_5: green
+Actor_6: brown
+Actor_7: lime
+Actor_8: orange
+Actor_9: purple
+Actor_10: gray
