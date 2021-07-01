@@ -2,7 +2,7 @@
 
 This repository contains data and code that support the findings of the following article:
 
-Fernández Carbonell, M., Boman, M., & Laukka, P. (submitted). Comparing supervised and unsupervised methods in multimodal emotion recognition.
+Fernández Carbonell, M., Boman, M., & Laukka, P. (submitted). Comparing supervised and unsupervised approaches to multimodal emotion recognition.
 
 ## Reproducing the results
 ### Getting the code
