@@ -40,6 +40,8 @@ jupyter lab
 ```
 You are finally ready to run the Jupyter notebooks and replicate the results.
 
+### Unsupervised learning results
+You can interactively visualize the data and inspect the results [here](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/marferca/multimodal-emotion-recognition/main/4.unsupervised_learning/exploratory_approach/tf_embedding_projector/projector_config.json). 
 ## Citation
 
 ```bibtex
