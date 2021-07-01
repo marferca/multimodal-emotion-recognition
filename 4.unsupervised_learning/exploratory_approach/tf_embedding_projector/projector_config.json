@@ -6,9 +6,9 @@
         1259,
         207
       ],
-      "tensorPath": "https://gist.githubusercontent.com/marferca/4661bdaf43078ae6c9e532b526d8aff7/raw/4fa85ca9ca000140dd5f0727c86fad11650c6180/tensors.tsv",
-      "metadataPath": "https://gist.githubusercontent.com/marferca/4661bdaf43078ae6c9e532b526d8aff7/raw/4fa85ca9ca000140dd5f0727c86fad11650c6180/metadata.tsv",
-      "bookmarksPath": "https://gist.githubusercontent.com/marferca/4661bdaf43078ae6c9e532b526d8aff7/raw/50c381b00e3db81ec64919296b5b0a900160bf25/bookmarks.txt"
+      "tensorPath": "https://raw.githubusercontent.com/marferca/multimodal-emotion-recognition/main/4.unsupervised_learning/exploratory_approach/tf_embedding_projector/tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/marferca/multimodal-emotion-recognition/main/4.unsupervised_learning/exploratory_approach/tf_embedding_projector/metadata.tsv",
+      "bookmarksPath": "https://raw.githubusercontent.com/marferca/multimodal-emotion-recognition/main/4.unsupervised_learning/exploratory_approach/tf_embedding_projector/bookmarks.txt"
       
     }
   ]
