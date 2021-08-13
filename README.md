@@ -38,10 +38,23 @@ Launch JupyterLab:
 ```launch jupyter lab
 jupyter lab
 ```
-You are finally ready to run the Jupyter notebooks and replicate the results.
+You are finally ready to run the Jupyter Notebooks and replicate the results.
+
+## Results
+### Supervised learning results
+* Unimodal
+    * Audio: [Modeling](https://github.com/marferca/multimodal-emotion-recognition/blob/main/3.supervised_learning/late_fusion/code/0_0_audio_modeling.ipynb) | [Feature importance](https://github.com/marferca/multimodal-emotion-recognition/blob/main/3.supervised_learning/late_fusion/code/0_1_audio_model_interpretation.ipynb)
+    * Video: [Modeling](https://github.com/marferca/multimodal-emotion-recognition/blob/main/3.supervised_learning/late_fusion/code/1_0_video_modeling.ipynb) | [Feature importance](https://github.com/marferca/multimodal-emotion-recognition/blob/main/3.supervised_learning/late_fusion/code/1_1_video_model_interpretation.ipynb)
+* Multimodal
+    * Late fusion: [Modeling](https://github.com/marferca/multimodal-emotion-recognition/blob/main/3.supervised_learning/late_fusion/code/2_fusion_techniques.ipynb)
+    * Early fusion: 
+        * eGEMAPS + AUs: [Modeling](https://github.com/marferca/multimodal-emotion-recognition/blob/main/3.supervised_learning/early_fusion/code/early_fusion_modeling_egemaps_aus.ipynb) | [Feature interpretation](https://github.com/marferca/multimodal-emotion-recognition/blob/main/3.supervised_learning/early_fusion/code/model_interpretation_egemaps_aus.ipynb)
+        * GEMAPS + AUs: [Modeling](https://github.com/marferca/multimodal-emotion-recognition/blob/main/3.supervised_learning/early_fusion/code/early_fusion_modeling_gemaps_aus.ipynb)
 
 ### Unsupervised learning results
-You can interactively visualize the data and inspect the results [here](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/marferca/multimodal-emotion-recognition/main/4.unsupervised_learning/exploratory_approach/tf_embedding_projector/projector_config.json). 
+* Traditional approach: [Before dimensionality reduction](https://github.com/marferca/multimodal-emotion-recognition/blob/main/4.unsupervised_learning/traditional_approach/code/0_multimodal_unsupervised_learning_before_dim_red.ipynb) | [After dimensionality reduction](https://github.com/marferca/multimodal-emotion-recognition/blob/main/4.unsupervised_learning/traditional_approach/code/2_multimodal_unsupervised_learning_after_dim_red.ipynb)
+* Exploratory approach: You can interactively visualize the data and inspect the results [here](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/marferca/multimodal-emotion-recognition/main/4.unsupervised_learning/exploratory_approach/tf_embedding_projector/projector_config.json). 
+
 ## Citation
 
 ```bibtex
