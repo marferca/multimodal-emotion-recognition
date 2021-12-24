@@ -2,7 +2,7 @@
 
 This repository contains data and code that support the findings of the following article:
 
-Fernández Carbonell, M., Boman, M., & Laukka, P. (submitted). Comparing supervised and unsupervised approaches to multimodal emotion recognition.
+Fernández Carbonell M, Boman M, Laukka P. 2021. Comparing supervised and unsupervised approaches to multimodal emotion recognition. PeerJ Computer Science 7:e804 https://doi.org/10.7717/peerj-cs.804
 
 ## Reproducing the results
 ### Getting the code
@@ -58,6 +58,16 @@ You are finally ready to run the Jupyter Notebooks and replicate the results.
 ## Citation
 
 ```bibtex
-@{
+@article{FernandezCarbonell2021,
+  doi = {10.7717/peerj-cs.804},
+  url = {https://doi.org/10.7717/peerj-cs.804},
+  year = {2021},
+  month = dec,
+  publisher = {{PeerJ}},
+  volume = {7},
+  pages = {e804},
+  author = {Marcos Fern{\'{a}}ndez Carbonell and Magnus Boman and Petri Laukka},
+  title = {Comparing supervised and unsupervised approaches to multimodal emotion recognition},
+  journal = {{PeerJ} Computer Science}
 }
 ```
